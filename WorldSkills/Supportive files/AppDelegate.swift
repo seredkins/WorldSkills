@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  WorldSkills
+//  DigitalSkills
 //
-//  Created by theSERG on 14/02/2018.
+//  Created by theSERG on 10/02/2018.
 //  Copyright © 2018 seredkins. All rights reserved.
 //
 
